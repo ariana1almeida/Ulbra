@@ -1,0 +1,102 @@
+.tudo{
+    width: 60%;
+    border: solid 1px rgb(136, 136, 136);
+    margin: 0 auto;
+    padding: 30px 30px 30px 30px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(247, 205, 221);
+    color: black;
+    margin-top: 0px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+img{
+    max-width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+.linha{
+    clear: both;
+}
+#foto{
+    width:30%;
+    float: left;
+    text-align: center;
+}
+
+#dados{
+    width: 70%;
+    float:left;
+    font-size:15px;
+
+}
+#formacao{
+    margin: 2%;
+    text-align: left;
+}
+
+.fonteDados{
+    color: rgb(247, 205, 221);
+    font-weight: bold;
+}
+
+h2{
+    color:rgb(247, 205, 221);
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+h3{
+    color:rgb(247, 205, 221);
+    text-align: left;
+    margin-bottom: 0px;
+}
+
+h4{
+    margin-bottom: 0;
+}
+
+hr{
+    border-color:rgb(247, 205, 221); 
+    margin-top: 0px;   
+}
+
+#coluna1{
+    float:left;
+    width: 45%;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+
+}
+#coluna2{
+    float:left;
+    width: 1px;
+    height: 400px;
+    background-color: rgb(247, 205, 221);
+    
+}
+#coluna3{
+    float:left;
+    width: 45%;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;    
+}
+
+.itens{
+    float: left;
+}
+
+.circulo{
+    height: 10px;
+    width: 10px;
+    background-color: rgb(247, 205, 221);
+    border-radius: 50%;
+    float: right;
+    margin-left: 10px;
+}

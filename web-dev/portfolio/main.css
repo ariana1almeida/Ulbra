@@ -1,0 +1,96 @@
+body{
+    background-color: beige;
+    margin: 0 0 0 0;
+    color:#98643d;
+    scroll-behavior: smooth;
+}
+#header{
+    min-height:50vh;
+    text-align:center;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-left: 3vw;
+    padding: 5vw;
+    padding-bottom: 0vh;
+}
+
+.container{
+    text-align: center;
+    padding: 5vh 0 5vh 0;
+
+}
+
+.icons{
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 5vh;
+    
+
+}
+
+img {
+    max-width: 6vw;
+}
+
+img:hover{
+   max-width: 5vw;
+}
+
+.icone-scroll{
+    position: absolute;
+    bottom: 3em;
+    width: 50px;
+    height: 50px;
+    background-color: burlywood;
+    border-radius:50%;
+    left:50%;
+    margin-left: -25px;
+}
+
+.scroll{
+    width: 15px;
+    height: 15px;
+    border-right: 2px solid beige;
+    border-bottom:2px solid beige;
+    display:inline-block;
+    position: relative;
+}
+
+.scroll-top{
+    transform: rotate(45deg);
+    margin: 14px 0 0 16px;
+}
+
+.academicBg{
+    display: flex;
+    justify-content:space-around;
+    padding-bottom: 10vh;
+}
+
+.myxp{  
+    text-align: center;
+}
+
+.projects{
+    display: flex;
+    justify-content: space-around;
+}
+
+.projects img{
+    min-width: 20vw;
+}
+
+.projects img:hover{
+    min-width:21vw;
+}
+
+.infos{
+    padding: 5vh 0 8vh 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.infos img{
+    min-width: 5vw;
+}
