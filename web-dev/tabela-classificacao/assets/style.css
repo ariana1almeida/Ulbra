@@ -1,0 +1,53 @@
+*{
+    margin: 0 auto;
+}
+body{
+    background-color: #e2e2e2;
+    font-family: arial, sans-serif;
+}
+.line{
+    clear: both;
+}
+.h2TitleSection{
+    font-size: 20px;
+}
+#h3TitleGroup{
+    font-size: 14px;
+}
+/*Header style*/
+#header{
+    background-color: #162e58;
+    min-height: 50px;
+    padding: 20px;
+}
+#headerTitle{
+    color: #ffffff;
+    font-size: 16px;
+    text-align: left;
+}
+/*Ranking and goalers style*/
+.ranking{
+    background-color: #ffffff;
+    width: 60%;
+}
+
+.goalers{
+    width: 50%;
+    background-color: #ffffff;
+}
+.tableRankGoal{
+    width: 100%;
+    background-color: #ffffff;
+}
+/*Next games*/
+#games{
+    background-color: #ffffff;
+    width: 60%;
+}
+.tableGames{
+    width: 100%;
+    text-align: center;
+}
+th,td{
+    border: 1px solid;
+}
