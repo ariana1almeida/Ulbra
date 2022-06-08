@@ -1,0 +1,58 @@
+#banner {
+    max-height: 30vh;
+    overflow: hidden;
+}
+
+#banner img {
+    width: 100%;
+}
+
+.menu {
+    background-color: cadetblue;
+    color: white;
+    padding: 1.5rem;
+}
+
+.menu a {
+    font-size: xx-large;
+    padding: 1.5rem;
+}
+
+.menu h1 {
+    padding-left: 10vw;
+}
+
+i:hover {
+    color: rgb(85, 145, 147) !important;
+}
+
+#principal {
+    margin: 1rem;
+}
+
+#principal h2 {
+    color: rgba(0, 0, 0, 0.541176);
+    font-size: x-large;
+    margin-top: 1vh;
+    margin-bottom: 8vh;
+}
+
+#conteudo-left {
+    width: 40vw;
+    float: left;
+    margin-left: 2vw;
+}
+
+#conteudo-right {
+    width: 40vw;
+    float: right;
+    margin-right: 2vw;
+}
+
+footer {
+    background-color: cadetblue;
+    max-height: 100vh;
+    display: flex;
+    justify-content: center;
+    padding-top: 2vh;
+}

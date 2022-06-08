@@ -1,0 +1,95 @@
+a:-webkit-any-link{
+    text-decoration: none;
+}
+.card-title {
+    color: #fd7e56;
+    margin-left: 1.2vw;
+    margin-top: 2vh;
+    font-size: 17px;
+}
+
+article {
+    display: flex;
+    float: left;
+    flex-direction: column;
+}
+
+.img-fluid {
+    max-width: 200px;
+    max-height: 200px;
+    float: right;
+}
+
+.card {
+    height: 25vh;
+}
+
+.text-start {
+    margin-left: 1rem !important;
+    color: black;
+    font-size: 23px;
+    text-decoration-line: inherit;
+}
+
+.text-start:hover {
+    color: dimgray;
+}
+
+aside {
+    background-color: rgba(240, 240, 240, 0.877);
+    display: flex;
+    float: right;
+}
+
+.title_materia {
+    color: #fd7e56;
+    font-size: 17px;
+    float: left;
+}
+
+aside .card {
+    padding: 20px;
+}
+
+.foto_colunista {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+    float: right;
+}
+
+.foto_materia {
+    max-width: 20vw;
+    max-height: 20vh;
+    float: right;
+    padding-bottom: 5px;
+    border-radius: 5%;
+}
+
+.h3 {
+    color: black;
+    text-decoration-line: inherit;
+}
+
+.h3:hover {
+    color: dimgray;
+}
+
+.jumbotron {
+    background-color: #fd7e56;
+    clear: both;
+    padding-right: none;
+}
+
+.nopadding {
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.row {
+    --bs-gutter-x: 0 !important;
+}
+
+.footerimg {
+    max-width: 15vw;
+}
