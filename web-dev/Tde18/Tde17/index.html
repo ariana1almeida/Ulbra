@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <div>
+        <h2>Calculadora</h2>
+            <form action="#">
+                <input id="n1" type="text">
+                <select name="operacao" id="operacao">
+                    <option value="+">+</option>
+                    <option value="-">-</option>
+                    <option value="*">*</option>
+                    <option value="/">/</option>
+                </select>
+                <input id="n2" type="text">
+                
+            </form>
+            <button id="btn" onclick="btn()">Calcular</button><br>
+            <label for="resultado">Resultado:<input id="resultado" type="text"></label>
+    <div>
+        <h2>Leitor de Kwh</h2>
+        <form action="#">
+            <label for="kwh"> Digite o valor de Kwh:</label>
+            <input id="kwh" type="text"><br>
+            <label for="valorUnit">Digite o valor unitário de Kwh:</label>
+            <input id="valorUnit" type="text"><br>
+            <button id="btn" onclick="calcularKwh()">Calcular</button><br>
+            <label for="resultadoAt2">Resultado:</label>
+            <input id="resultadoAt2" type="text">
+        </form>
+    </div>
+    <div>
+        <h2>Verificador de maior número</h2>
+        <form action="#">
+            <input id="inputs" type="text"><br>
+            <button id="btn" onclick="checarMaior()">Verificar</button><br>
+            <label for="maior">O maior é:</label>
+            <input id="maior" type="text">
+        </form>
+    </div>
+    <div>
+        <h2>Verificar maior idade</h2>
+        <form action="#">
+            <input id="idades" type="text"><br>
+            <button id="btn" onclick="verifyAges()">Verificar</button><br>
+        </form>
+        <p id="resultAt4"> </p>
+    </div>
+</body>
+</html>

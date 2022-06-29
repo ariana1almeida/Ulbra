@@ -1,5 +1,5 @@
 //calculadora
-$(document).ready(function btn(){
+function btn(){
     var n1=document.getElementById('n1').value;
     var n2=document.getElementById('n2').value;
     var operacao=document.getElementById('operacao').value;
@@ -24,7 +24,7 @@ $(document).ready(function btn(){
     console.log(n1);
     console.log(n2);
     console.log(operacao);
- });
+ }
  //calcula Kwh
  function calcularKwh(){
     var kwh=parseFloat(document.getElementById('kwh').value);
