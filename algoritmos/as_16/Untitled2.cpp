@@ -30,7 +30,7 @@ int main(){
 		}
 	}
 	if(istrue=true){
-		printf("Seu numero esta no vetor, na posicao %d\n", posicao);
+		printf("Seu numero esta no vetor, na posicao %d\n", posicao+1);
 	}else{
 		printf("Seu numero nao esta no vetor!");
 	}

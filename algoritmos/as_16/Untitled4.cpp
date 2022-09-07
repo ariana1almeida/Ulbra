@@ -7,7 +7,7 @@
 
 int main(){
 	int option;
-	float vet[5];
+	float vet[5], j;
 	
 	for(int i=0;i<5;i++){
 		printf("Digite o numero real da posicao %d: \n",i+1);
@@ -21,11 +21,11 @@ int main(){
 	
 	if(option==1){
 		for(int i=0;i<5;i++){
-			printf("%2.f\n", vet[i]);
+			printf("%f\n", vet[i]);
 		}
 	} else if(option==2){
 		for(int i=4;i>=0;i--){
-			printf("%2.f\n", vet[i]);
+			printf("%f\n", vet[i]);
 		}
 	}else{
 		printf("Codigo invalido\n");
