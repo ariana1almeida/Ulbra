@@ -1,6 +1,5 @@
 <?php
-//class
-$servername = "db:3306"; //localhost:3306
+$servername = "db"; //localhost:3306
 $username = "root";
 $password = "1q2w3e4r5t";
 $dbname = "pw_exemple";
@@ -16,18 +15,20 @@ $result = $conn->query($sql);
 
 //controller
 $arrayClients =  array();
-while ($line = $result->fetch_assoc()) {
-  array_push($arrayClients, $line);
+while($line = $result -> fetch_assoc()){
+    array_push($arrayClients, $line);
 }
 
 //view
 foreach ($arrayClients as $client) {
-  echo $client['idClient'] . ' - ';
-  echo $client['name'];
-  echo $client['email'];
-  echo $client['phone'];
-  echo $client['address'];
-  echo '<br>';
+    echo $client['idClient'].' - ';
+    echo $client['name'];
+    echo $client['email'];
+    echo $client['phone'];
+    echo $client['address'];
+    echo '<br>';
 }
 
 $conn->close();
+
+?>

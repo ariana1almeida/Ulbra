@@ -1,6 +1,6 @@
 <h2>Listagem de Produtos</h2>
 
-<table>
+<table class="table table-stripped">
     <tr>
         <th class="p-1 text-center">ID do Produto</th>
         <th class="p-1 text-center">ID da Categoria</th>
