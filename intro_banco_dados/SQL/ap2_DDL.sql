@@ -112,7 +112,7 @@ SELECT * from artigos where id = '1234'
 
 SELECT * from artigos where nome_editora = 'Saraiva'
 
-SELECT * from escritores where nome like '%João%'
+SELECT * from escritores where nome like '%João'
 
 /* -------------ATIVIDADE 03 ----------------*/
 create table socios(
