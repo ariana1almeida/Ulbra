@@ -29,5 +29,12 @@
                         <a href="?controller=main&action=index" class="nav-link">Home</a>
                     </li>
                 </ul>
+                <h4>Clientes</h4>
+                <li class="nav-item">
+                    <a id="" class="nav-link" href="?controller=client&action=listClient">Listar Clientes</a>
+                </li>
+                <li class="nav-item">
+                    <a id="" class="nav-link" href="?controller=client&action=insertClient">Inserir Cliente</a>
+                </li>
             </nav>
             <section class="p-3 col-md-9">
