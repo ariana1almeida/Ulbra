@@ -1,0 +1,73 @@
+CRITICAL - 2022-12-05 18:08:40 --> Undefined variable $clients
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $clients', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Client.php(14): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-05 18:09:25 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Client.php(14): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-05 18:09:53 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Client.php(14): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-05 18:11:23 --> Undefined variable $arrayClients
+in APPPATH/Views/admin/client/listClients.php on line 23.
+ 1 APPPATH/Views/admin/client/listClients.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $arrayClients', 'APPPATH/Views/admin/client/listClients.php', 23)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Client.php(14): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-05 18:11:33 --> Undefined variable $client
+in APPPATH/Views/admin/client/listClients.php on line 26.
+ 1 APPPATH/Views/admin/client/listClients.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $client', 'APPPATH/Views/admin/client/listClients.php', 26)
+ 2 SYSTEMPATH/View/View.php(213): include('APPPATH/Views/admin/client/listClients.php')
+ 3 SYSTEMPATH/View/View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/client/listClients', [], true)
+ 5 APPPATH/Controllers/Client.php(14): view('admin/client/listClients', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Client->listClients()
+ 7 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Client))
+ 8 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-05 18:53:27 --> Invalid file: admin/login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/login.php')
+ 2 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/login.php', [], true)
+ 3 APPPATH/Controllers/Admin/Admin.php(25): view('admin/login.php')
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Admin\Admin->login()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-12-05 19:26:55 --> Invalid file: admin/login.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('admin/login.php')
+ 2 SYSTEMPATH/Common.php(1134): CodeIgniter\View\View->render('admin/login.php', [], true)
+ 3 APPPATH/Controllers/Admin/Admin.php(25): view('admin/login.php')
+ 4 SYSTEMPATH/CodeIgniter.php(927): App\Controllers\Admin\Admin->login()
+ 5 SYSTEMPATH/CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin\Admin))
+ 6 SYSTEMPATH/CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(67): CodeIgniter\CodeIgniter->run()
