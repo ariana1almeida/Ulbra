@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="641259d9-78ec-4002-8e64-a8b47ed7238f" name="Changes" comment="Atualizando o repositório">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioDois.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioQuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/Teste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioCincoJavaTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioDoisJavaTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioQuatroJavaTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioTresJavaTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioUmJavaTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="641259d9-78ec-4002-8e64-a8b47ed7238f" name="Changes" comment="Atualizando o repositório" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,8 +142,16 @@
       <updated>1678143166658</updated>
       <workItem from="1678143167822" duration="10643000" />
       <workItem from="1678748194459" duration="1419000" />
-      <workItem from="1679936497664" duration="2475000" />
+      <workItem from="1679936497664" duration="3168000" />
     </task>
+    <task id="LOCAL-00001" summary="Atualizando o repositório">
+      <created>1679940292886</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679940292887</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
