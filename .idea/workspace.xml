@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="641259d9-78ec-4002-8e64-a8b47ed7238f" name="Changes" comment="Atualizando o repositório">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioCinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioDois.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioQuatro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/ExercicioUm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava2/src/main/java/org/example/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioCincoJavaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioDoisJavaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioQuatroJavaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioTresJavaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExerciciosJava3/src/main/java/org/example/ExercicioUmJavaTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2Mf07W35X5zwVg9ybmSIeLqF99Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\arian\OneDrive\Área de Trabalho\coding\Ulbra\LaboratorioProgramacao\ExerciciosJava2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ExercicioDoisJavaTres">
+    <configuration name="ExercicioCinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ExercicioCinco" />
+      <module name="ExerciciosJava2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioCincoJavaTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ExercicioCincoJavaTres" />
+      <module name="ExerciciosJava3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioDoisJavaTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ExercicioDoisJavaTres" />
+      <module name="ExerciciosJava3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioQuatroJavaTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ExercicioQuatroJavaTres" />
+      <module name="ExerciciosJava3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercicioUmJavaTres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ExercicioUmJavaTres" />
+      <module name="ExerciciosJava3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ExercicioDoisJavaTres" />
+        <item itemvalue="Application.ExercicioCincoJavaTres" />
+        <item itemvalue="Application.ExercicioQuatroJavaTres" />
+        <item itemvalue="Application.ExercicioUmJavaTres" />
+        <item itemvalue="Application.ExercicioCinco" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="641259d9-78ec-4002-8e64-a8b47ed7238f" name="Changes" comment="" />
+      <created>1678143166658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678143166658</updated>
+      <workItem from="1678143167822" duration="10643000" />
+      <workItem from="1678748194459" duration="1419000" />
+      <workItem from="1679936497664" duration="2475000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Atualizando o repositório" />
+    <option name="LAST_COMMIT_MESSAGE" value="Atualizando o repositório" />
+  </component>
+</project>
